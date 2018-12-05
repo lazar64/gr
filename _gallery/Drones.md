@@ -10,7 +10,7 @@ Windows Phone, Mac OS και τα Microsoft Windows .'
 license_url: 'https://commons.wikimedia.org/wiki/File:MQ-9_Reaper_-_090609-F-0000M-777.JPG'
 license_text: U.S. Air Force
 categories:
-  - apps
+  - vehicle
 tags:
-  - communication
+  - models
 ---
