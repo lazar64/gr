@@ -1,7 +1,7 @@
 ---
 author: lazar64
-title: Viber
-image_url: /images/Viber-logo.png
+title: Drones
+image_url: /images/Drone.jpg
 caption:  'Δημοφιλής εφαρμογή άμεσης ανταλλαγής μηνυμάτων, φωτογραφιών και βίντεο.
 Υποστηρίζει επίσης συνομιλία μέσω Voip. Λειτουργεί κάτω από δίκτυα  3G/4G  και  Wi/Fi.
 Η συνομιλία αρχικά προορίζονταν για iphone και android,
