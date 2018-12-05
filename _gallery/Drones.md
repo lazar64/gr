@@ -7,8 +7,8 @@ caption:  'Δημοφιλής εφαρμογή άμεσης ανταλλαγής
 Η συνομιλία αρχικά προορίζονταν για iphone και android,
 αργότερα επεκτάθηκε και σε άλλα λειτουργικά Symbian,   
 Windows Phone, Mac OS και τα Microsoft Windows .'
-license_url: 'https://commons.wikimedia.org/wiki/File:Viber-logo.png'
-license_text: Viber Media Inc.
+license_url: 'https://commons.wikimedia.org/wiki/File:MQ-9_Reaper_-_090609-F-0000M-777.JPG'
+license_text: U.S. Air Force
 categories:
   - apps
 tags:
