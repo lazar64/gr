@@ -7,7 +7,7 @@ caption: 'Το Active Badge που υλοποιήθηκε από το ερευν
 license_url: 'https://www.google.com/culturalinstitute/beta/partner/deutsches-museum'
 license_text: Courtesy of Deutsches Museum
 categories:
-  - archetypes
+  - apps
 tags:
-  - Xerox
+  - communication
 ---
