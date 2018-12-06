@@ -1,7 +1,7 @@
 ---
 author: lazar64
 title: Wii
-image_url: /images/active-badge.jpg
+image_url: /images/Wii.jpg
 caption: 'Κονσόλα βιντεοπαιχνιδιών κατασκευασμένη από την Nintendo. 
 Ενσωματώνει Τεχνολογία  κίνησης  και μπορεί να στηρίξει διαδραστικά παιχνίδια. 
 Ανταγωνιστής των X-BOX και  SonyPlaystation 3.'
