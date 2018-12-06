@@ -1,5 +1,4 @@
 ---
-
 author: lazar64
 title: SIM 
 image_url: /images/sim.jpg
@@ -14,5 +13,4 @@ categories:
   - mobiles
 tags:
   - communication
-  
 ---
