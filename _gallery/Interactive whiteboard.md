@@ -8,6 +8,6 @@ license_text:
 categories:
   - archetypes
 tags:
-  -introduction
+  - introduction
   
 ---
