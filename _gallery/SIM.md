@@ -1,6 +1,6 @@
 ---
 author: lazar64
-title: Subscriber identity module 
+title: SIM 
 image_url: /images/sim.jpg
 caption: 'Ευρέως γνωστή ως SIM  card είναι ένα ολοκληρωμένο κύκλωμα, που διατίθεται από τον πάροχο της κινητής τηλεφωνίας  
 και παρέχει πληροφορίες  ταυτοποίησης του συνδρομητή της κινητής τηλεφωνίας. 
