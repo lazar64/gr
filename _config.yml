@@ -241,9 +241,9 @@ collections:
   biography:
     output: true
     permalink: /biography/:path/
-  case-study:
+  _case-study:
     output: true
-    permalink: /case-study/:path/
+    permalink: /_case-study/:path/
   gallery:
     output: true
     permalink: /gallery/:path/
