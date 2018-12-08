@@ -1,6 +1,6 @@
 ---
 author: lazar64
-title: SIM 
+title: sim
 image_url: /images/sim.png
 caption: 'Ευρέως γνωστή ως SIM  card είναι ένα ολοκληρωμένο κύκλωμα,
 που διατίθεται από τον πάροχο της κινητής τηλεφωνίας  
