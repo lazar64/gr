@@ -10,7 +10,6 @@ categories:
 tags:
   - DuckDuckGo
   - success
-
 ---
 
 {% include_relative cs-DuckDuckGo.md %}
