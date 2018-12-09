@@ -1,7 +1,7 @@
 ---
 author: lazar64
 title: "DuckDuckGo"
-image_url: /images/DuckDuckGo.PNG
+image_url: /images/DuckDuckGo.png
 caption: "Μια εναλλακτική μηχανή αναζήτησης η οποία βάζει σε απόλυτη προτεραιότητα την
 ιδιωτικότητα του χρήστη και δεν τον παρακολουθεί."
 categories:
