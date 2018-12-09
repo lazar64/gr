@@ -10,8 +10,6 @@ categories:
 tags:
   - DuckDuckGo
   - success
-gallery:
-  - image_url: /images/DuckDuckGo.PNG
 
 ---
 
