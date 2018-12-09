@@ -17,4 +17,4 @@ gallery:
 
 {% include_relative cs-DuckDuckGo.md %}
 
-{% include slides.html %}
+
